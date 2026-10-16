@@ -211,15 +211,9 @@ The comparison uses chassis and engine numbers instead of license plates.
 ## Project Structure
 
 ```text
-Car-Management-System/
-├── ezgi.erdogan.220304019 (1).cpp
+car-management-system/
+├── car_management_system.cpp
 └── README.md
-```
-
-For a cleaner repository structure, the source file can be renamed to:
-
-```text
-car_management_system.cpp
 ```
 
 ## Build Instructions
